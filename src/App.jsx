@@ -10,6 +10,7 @@ function App() {
   
   let str1 = 'txt1'
   let str2 = 'txt2'
+  let str3 = 'txt2'
 
 
   return (
